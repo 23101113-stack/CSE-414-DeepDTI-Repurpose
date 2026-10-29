@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Raw datasets (heavy files)
+data/raw/
+*.csv
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
