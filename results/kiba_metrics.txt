@@ -1,9 +1,0 @@
-=============================================
-KIBA Benchmark Results:
-Final Test MSE       : 0.4587
-Final Test CI        : 0.8224
-Final Test Pearson R : 0.6817
-=============================================
-
-
-
