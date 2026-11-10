@@ -12,9 +12,8 @@ The framework processes heterogeneous biochemical modalities via a dual-branch n
 * **Cross-Attention Fusion:** Multi-head cross-attention layer aligning drug substructural features with protein sequence motifs.
 * **Prediction Head:** Multilayer Perceptron (MLP) with Batch Normalization, LeakyReLU, and Dropout (0.2) to predict continuous interaction scores.
 
-[![Streamlit App 1](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://deepdti-repurpose-app1.streamlit.app/) — **Interactive Screening Dashboard**
+[![Streamlit App 1](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cse-414-deepdti-repurpose-app1.streamlit.app/) — **Interactive Screening Dashboard**
 
-[![Streamlit App 2](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://deepdti-repurpose-app2.streamlit.app/) — **Fast Batch Virtual Screening Platform**
 
 ---
 
